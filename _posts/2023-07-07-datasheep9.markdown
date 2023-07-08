@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Data Sheep's Quest for Machine Learning Excellence: Retraining Python Models with Scikit-Learn and the Magic of Feature Engineering"
+title: "Data Sheep's Quest for Machine Learning: Retraining Python Models with Scikit-Learn and the Magic of Feature Engineering"
 author: Data Sheep
 --- 
 
