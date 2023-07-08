@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Snowflake and Azure Data Factory: Data Sheep's Journey to a Magical Data Wonderland"
+title: "Data Sheep's Journey to a Magical Data Wonderland: Snowflake and Azure Data Factory"
 author: data-sheep
 --- 
 
