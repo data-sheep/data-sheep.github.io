@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Day in the Life of Data Sheep: An On-Call Engineer's Journey in the Farmyard"
+title: "Data Sheep's Normal Day in the Life: An On-Call Engineer's Journey in the Farmyard"
 author: data-sheep
 ---
 
