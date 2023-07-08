@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Data Sheep's Whimsical Journey: Fluffy Clouds, Curious Friends, and Data-driven Havens with Snowflake, dbt, and Terraform"
-author: data-sheep
+title: "Data Sheep's Whimsical Journey: Data-driven Havens with Snowflake, dbt, and Terraform"
+author: Data Sheep
 image: /assets/images/download (68).jpeg
 ---
 
@@ -28,8 +28,6 @@ Nonetheless, Data Sheep persisted, combining Snowflake with dbt and Terraform in
 As the farm animals watched Data Sheep's adventures unfold, they marveled at her data-driven prowess. Together, they formed an eclectic group—the sheep, goats, alpacas, and dogs—embarking on a fantastical data journey across the farm. With their laughter echoing through the meadows, they transformed the farmyard into a place where data and humor harmoniously danced. 🎉🐑🎊
 
 And so, Data Sheep, accompanied by her merry band of farm animal friends, created a legacy of joy, innovation, and fluffy clouds of data. Their farm became renowned far and wide as the most whimsical and data-driven haven, all thanks to the clever and hilarious escapades of Data Sheep and her magical tools—Snowflake, dbt, and Terraform. 🌈🐑✨
-
-![](../../../Downloads/download (64).jpeg)
 
 ---
 **TL;DR**

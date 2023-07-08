@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Data Sheep's Normal Day in the Life: An On-Call Engineer's Journey in the Farmyard"
-author: data-sheep
+title: "Data Sheep's On-Call Engineer Chronicles: A Day of Farmyard Adventures"
+author: Data Sheep
 ---
 
 Once upon a time, in the sprawling digital landscape of the farmyard, a brave and tech-savvy sheep named Data Sheep embarked on her next adventure as an on-call engineer. Equipped with her knowledge and unwavering determination, she was ready to face the challenges that awaited her. 🐑💻
@@ -10,7 +10,7 @@ As the afternoon sun cast a warm glow across the farmyard, Data Sheep received a
 
 With the addition of the powerful monitoring tool, New Relic, Data Sheep had a newfound arsenal at her disposal. It was a tool she trusted to guide her through the intricate maze of alerts that lay ahead. From 1 PM to 9 PM, the farmyard came alive with emoji-filled notifications, each one holding the promise of a thrilling challenge. 🚨😃
 
-The first alert she encountered was a haunting series of 4xx and 5xx errors. The backend services were struggling, and the farmyard seemed to hold its breath in anticipation. Data Sheep dove headfirst into the logs, her eyes scanning lines of code like a detective on a trail. With each passing moment, her understanding of the issue deepened. She traced the errors back to misbehaving Nginx instances and Kafka pods, causing disruptions in the flow of data. With a stroke of brilliance, Data Sheep reconfigured the misbehaving components, restoring order to the backend and silencing the alarm bells. 🕵️‍♀️✨
+The first alert she encountered was a haunting series of server errors and client errors. The backend services were struggling, and the farmyard seemed to hold its breath in anticipation. Data Sheep dove headfirst into the logs, her eyes scanning lines of code like a detective on a trail. With each passing moment, her understanding of the issue deepened. She traced the errors back to misbehaving Nginx instances and Kafka pods, causing disruptions in the flow of data. With a stroke of brilliance, Data Sheep reconfigured the misbehaving components, restoring order to the backend and silencing the alarm bells. 🕵️‍♀️✨
 
 As the sun descended on the horizon, another alert blinked on Data Sheep's screen—a deviation in metric queries from the baseline. The farmyard shivered in anticipation, for this was a common issue in backend deployments. Undeterred, Data Sheep delved into the depths of the monitoring tool, New Relic. She analyzed the metrics with laser-like focus, spotting the subtle anomalies that threatened to disrupt the farm's digital harmony. With a few carefully crafted adjustments to the code, she realigned the metric queries, restoring the balance and leaving the farmyard in awe of her expertise. 📈🔍🔧
 
@@ -23,5 +23,5 @@ Data Sheep emerged from her adventure with a newfound sense of accomplishment an
 And so, Data Sheep's adventure as an on-call engineer with new alerts and the powerful monitoring tool came to a close. Her tale would be shared among the farm's inhabitants, inspiring them to embrace the challenges that lay ahead and empowering them to face their own comical chaos with determination, knowledge, and a touch of sheepish humor. 📖❤️😄
 
 ---
-
-**TL;DR**: Data Sheep, a brave and tech-savvy sheep, embarks on an adventure as an on-call engineer in the farmyard's digital realm. Equipped with the monitoring tool New Relic, she faces a series of challenging alerts from 1 PM to 9 PM. With her expertise, she resolves 4xx and 5xx errors, misconfigured components, metric deviations, and server performance issues. Data Sheep emerges victorious, restoring stability and order to the backend production. Her tale inspires others to embrace challenges with determination and knowledge. 🐑💻🚨😃🕵️‍♀️✨📈🔍🔧💪⌨️🔥🌟👏🐑📖❤️😄
+**TL;DR** 
+Data Sheep, a brave and tech-savvy sheep, embarks on an adventure as an on-call engineer in the farmyard's digital realm. Equipped with the monitoring tool New Relic, she faces a series of challenging alerts from 1 PM to 9 PM. With her expertise, she resolves 4xx and 5xx errors, misconfigured components, metric deviations, and server performance issues. Data Sheep emerges victorious, restoring stability and order to the backend production. Her tale inspires others to embrace challenges with determination and knowledge. 🐑💻🚨😃🕵️‍♀️✨📈🔍🔧💪⌨️🔥🌟👏🐑📖❤️😄

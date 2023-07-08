@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Data Sheep's Journey to a Magical Data Wonderland: Snowflake and Azure Data Factory"
-author: data-sheep
+author: Data Sheep
 --- 
 
 Once upon a starry night, in a farmyard bathed in 🌟 moonlight, there lived a curious and imaginative little sheep named 🐑 Data Sheep. With her fluffy white coat and twinkling 👀 eyes, she spent her days exploring the wonders of the farm and dreaming of magical adventures. One evening, as the farm animals settled down to sleep, 🐑 Data Sheep's mind wandered to a new realm of data and technology.
@@ -21,3 +21,7 @@ As dawn broke and the dream came to an end, 🐑 Data Sheep awoke with a renewed
 From that day forward, 🐑 Data Sheep used her newfound knowledge to guide the farmyard into a future fueled by data and innovation. With Azure Data Factory as her castle and Snowflake as her kingdom, she became the shepherdess of data, bringing light and understanding to every corner of the farm.
 
 And so, as the farm animals nestled in their cozy beds, they dreamed of 🐑 Data Sheep's enchanting adventures in Azure Data Factory and Snowflake. They knew that with the power of data, their farmyard would flourish and thrive, forever guided by the wisdom and magic of their beloved 🐑 Data Sheep.
+
+---
+**TL;DR**
+🐑 Follow Data Sheep's enchanting adventure through Azure Data Factory and Snowflake as she unlocks the secrets of data orchestration and analysis. Guided by friendly creatures and the sparkle of these technologies, she becomes a master of transforming raw data into valuable insights. Armed with Azure Data Factory's castle 🏰 and Snowflake's kingdom ❄️, Data Sheep brings light and understanding to the farmyard, ensuring a future fueled by innovation and the magic of data.

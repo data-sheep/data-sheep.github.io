@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Data Sheep's Whimsical Journey: Unveiling the Magic of Kafka, Flink, and ksqlDB in the Farmyard"
-author: data-sheep
+author: Data Sheep
 --- 
 
 Once upon a time, in a lively farm nestled amidst rolling green hills, there resided a curious and clever little sheep named 🐑 Data Sheep. With her soft, fluffy wool and inquisitive eyes, she was adored by all the farm animals for her boundless curiosity and love for learning. One day, as the golden sun illuminated the farm, 🐑 Data Sheep embarked on a fascinating adventure to master the mystical art of Kafka event streaming.
@@ -21,3 +21,7 @@ Embracing the enchantment of ksqlDB, 🐑 Data Sheep and her farm animal friends
 As their tale unfolded, the other animals gathered around 🐑 Data Sheep, eager to learn from her wisdom. They marveled at her journey—starting with Kafka, exploring Flink's prowess, and finally discovering the magic of ksqlDB. The farmyard buzzed with excitement as they realized that sometimes the simplest tools can weave the most powerful spells.
 
 And so, as the sun set on the farm, 🐑 Data Sheep and her farm animal friends continued their whimsical adventure, armed with the knowledge of Kafka, the memories of Flink, and the enchantment of ksqlDB. They embraced the magic of data, united in their pursuit of knowledge and their unwavering spirit of exploration. As they looked up at the starry sky, they knew that the path ahead would be filled with endless possibilities, with 🐑 Data Sheep leading the way to new discoveries, guided by the spellbinding powers of Kafka and the enchanting simplicity of ksqlDB.
+
+---
+**TL;DR**
+Join Data Sheep on a whimsical journey as she explores the magical world of Kafka event streaming in the farmyard. Alongside her farm animal friends, they encounter the power of Flink for stream processing and the enchantment of ksqlDB for effortless data querying and transformation. As they embrace the simplicity of ksqlDB, they bid farewell to Flink and unlock the true magic of Kafka. The farmyard is filled with excitement as they realize that sometimes the simplest tools can weave the most powerful spells. With their spirit of exploration, Data Sheep and her friends embark on new adventures, guided by the spellbinding powers of Kafka and the enchanting simplicity of ksqlDB.
