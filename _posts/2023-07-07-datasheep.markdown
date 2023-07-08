@@ -5,6 +5,8 @@ author: data-sheep
 image: /assets/images/download (68).jpeg
 ---
 
+![] ({{ page.image | relative_url }})
+
 Once upon a hilarious time in a lively farmyard, there resided a clever and witty female sheep named Data Sheep 🐑. Known for her insatiable curiosity, she couldn't resist exploring the whimsical world of data using Snowflake ☁️, dbt 🛠️, and Terraform 🌱, much to the amusement of her farm animal friends.
 
 Data Sheep's journey commenced as she ventured into Snowflake, the renowned cloud-based data warehousing platform. With each query she ran, the neighboring goats 🐐 and alpacas 🦙 gathered around, their eyes wide with curiosity. They marveled at Data Sheep's ability to handle enormous volumes of data, exclaiming, "She's turning numbers into fluffy clouds! ☁️✨"
