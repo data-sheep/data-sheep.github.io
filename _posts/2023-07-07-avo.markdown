@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Data Sheep's Data-Driven Adventure: Embarking Avo and Tracking Plans" 🚀🌱 "
+title: "Data Sheep's Data-Driven Adventure: Embarking Avo and Tracking Plans 🚀🌱 "
 author: Data Sheep
 image: /assets/images/avo-1.jpeg
 --- 
