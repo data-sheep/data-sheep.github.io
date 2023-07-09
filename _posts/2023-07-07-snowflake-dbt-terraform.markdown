@@ -2,10 +2,10 @@
 layout: post
 title: "Data Sheep's Whimsical Journey: Data-driven Havens with Snowflake, dbt, and Terraform"
 author: Data Sheep
-image: /assets/images/download (68).jpeg
+image: /assets/images/download-68.jpg
 ---
 
-![] ({{ page.image | relative_url }})
+![image](/assets/images/download-68.jpg)
 
 Once upon a hilarious time in a lively farmyard, there resided a clever and witty female sheep named Data Sheep 🐑. Known for her insatiable curiosity, she couldn't resist exploring the whimsical world of data using Snowflake ☁️, dbt 🛠️, and Terraform 🌱, much to the amusement of her farm animal friends.
 
