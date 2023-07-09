@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Data Sheep's Data-Driven Adventure: Embarking Avo and Tracking Plans 🚀🌱 "
+title: "Data Sheep's Data-Driven Adventure: Embarking Avo and Tracking Plans "
 author: Data Sheep
 image: /assets/images/avo-1.jpg
 --- 
 
-![image](/assets/images/avo-1.jpg)
+![image](/assets/images/avo-0.jpg)
 
 Once upon a time, in a vibrant farm nestled amidst rolling green hills, a group of curious and intelligent animals embarked on an extraordinary journey to uncover the secrets of data management. Led by a sheep named Data Sheep, the farmyard friends—🦙 Alpaca, 🐐 Goat, and 🐑 Sheep—set out to explore the wonders hidden within their farm's data.
 
@@ -15,19 +15,33 @@ As they delved deeper into their exploration, Data Sheep and her friends discove
 
 Excitement filled the air as the animals brainstormed and collaborated, sharing their unique perspectives and insights. They realized that by implementing a systematic approach to data tracking, they could uncover patterns, identify opportunities for improvement, and enhance their farm's operations.
 
+![image](/assets/images/avo-1.jpg)
+
 Without the guidance of a specific tool like Avo, the animals relied on their ingenuity and creativity to map out their farm's data journey. They identified crucial touchpoints, such as animal feed consumption, weather patterns, and visitor interactions, and developed a framework to capture and analyze this information.
+
+![image](/assets/images/avo-2.jpg)
 
 With each new discovery, the animals became more determined to harness the power of data. They recognized the significance of properly structuring their data and decided to establish guidelines on where and how to add analytics code in their farm's systems. This would ensure consistency and ease for future data analysis.
 
+![image](/assets/images/avo-3.jpg)
+
 As the animals continued their exploration, they also learned the importance of documenting the purpose behind tracking each event and property. This allowed them to align their data management practices with their farm's goals and make data-driven decisions that would positively impact their operations.
 
+![image](/assets/images/avo-4.jpg)
+
 Through trial and error, the farmyard friends developed their own unique approach to data management. They celebrated each small victory, knowing that their dedication to understanding and leveraging data would unlock new possibilities for their farm.
+
+![image](/assets/images/avo-5.jpg)
 
 And so, Data Sheep and her companions ventured forth, armed with their newfound knowledge and an unwavering spirit of discovery. Together, they embarked on a journey of continuous learning, where data became a powerful tool to optimize their farm's activities, improve visitor experiences, and ensure sustainable growth.
 
 As the sun set on the farm each day, the animals gathered with excitement, marveling at the transformative power of data management. They realized that through their exploration, they had unveiled the farm's hidden secrets and embraced a data-driven mindset that would shape their future.
 
+![image](/assets/images/avo-6.jpg)
+
 In the end, it wasn't a specific tool or technology that guided their journey—it was their collective spirit of curiosity, collaboration, and a shared desire to harness the power of data for the betterment of their farm. 🌟🐾🔍
+
+![image](/assets/images/avo-7.jpg)
 
 ---
 **TL;DR**
