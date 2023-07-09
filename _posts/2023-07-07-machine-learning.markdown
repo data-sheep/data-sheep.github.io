@@ -36,8 +36,6 @@ With meticulous attention to detail and the support of her farmyard friends, Dat
 
 The farmyard celebrated Data Sheep's achievement, and her work inspired other data-driven animals in the scientific community. The power of scikit-learn and feature engineering became a beacon of possibility, driving advancements in the field.
 
-![image](/assets/images/ML-7.jpeg)
-
 Data Sheep's journey as a Machine Learning Scientist was marked by curiosity, exploration, and pushing the boundaries of knowledge. Her expertise in feature engineering paved the way for advancements in the world of machine learning, leaving a lasting impact on the scientific community.
 
 ![image](/assets/images/ML-8.jpeg)
