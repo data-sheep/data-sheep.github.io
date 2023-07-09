@@ -2,10 +2,10 @@
 layout: post
 title: "Data Sheep's Data-Driven Adventure: Embarking Avo and Tracking Plans 🚀🌱 "
 author: Data Sheep
-image: /assets/images/avo-1.jpeg
+image: /assets/images/avo-1.jpg
 --- 
 
-![image](/assets/images/avo-1.jpeg)
+![image](/assets/images/avo-1.jpg)
 
 Once upon a time, in a vibrant farm nestled amidst rolling green hills, a group of curious and intelligent animals embarked on an extraordinary journey to uncover the secrets of data management. Led by a sheep named Data Sheep, the farmyard friends—🦙 Alpaca, 🐐 Goat, and 🐑 Sheep—set out to explore the wonders hidden within their farm's data.
 
