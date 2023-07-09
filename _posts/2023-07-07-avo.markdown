@@ -5,7 +5,7 @@ author: Data Sheep
 image: /assets/images/avo-1.jpg
 --- 
 
-![image](/assets/images/avo-0.jpg)
+![image](/assets/images/avo-1.jpeg)
 
 Once upon a time, in a vibrant farm nestled amidst rolling green hills, a group of curious and intelligent animals embarked on an extraordinary journey to uncover the secrets of data management. Led by a sheep named Data Sheep, the farmyard friends—🦙 Alpaca, 🐐 Goat, and 🐑 Sheep—set out to explore the wonders hidden within their farm's data.
 
@@ -14,8 +14,6 @@ Driven by their insatiable curiosity, the animals ventured into the vast digital
 As they delved deeper into their exploration, Data Sheep and her friends discovered the concept of a Tracking Plan—an invaluable tool that would bring clarity and structure to their data management practices. Together, they recognized the importance of defining key events and properties that would help them understand their visitors and make informed decisions.
 
 Excitement filled the air as the animals brainstormed and collaborated, sharing their unique perspectives and insights. They realized that by implementing a systematic approach to data tracking, they could uncover patterns, identify opportunities for improvement, and enhance their farm's operations.
-
-![image](/assets/images/avo-1.jpeg)
 
 Without the guidance of a specific tool like Avo, the animals relied on their ingenuity and creativity to map out their farm's data journey. They identified crucial touchpoints, such as animal feed consumption, weather patterns, and visitor interactions, and developed a framework to capture and analyze this information.
 
