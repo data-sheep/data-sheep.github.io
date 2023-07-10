@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Data Sheep's Exciting Journey into Farmyard Analytics and Customer Delight with RudderStack"
+title: "Data Sheep's Exciting Journey into Farmyard Analytics and Insight with RudderStack"
 author: Data Sheep
 --- 
 
