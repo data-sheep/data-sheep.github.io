@@ -6,15 +6,15 @@ author: Data Sheep
 
 ![image](/assets/images/fang-00.jpeg)
 
-Once upon a time, in the bustling coding community of wizards and witches, a clever and inquisitive sheep named Data Sheep 🐑 embarked on a magical quest. Data Sheep had a passion for data analytics and an unwavering love for sheep and dogs, especially husky 📊❤️. Inspired by the legendary Fang from J.K. Rowling's Harry Potter series, they sought to rewrite Python code for an SQL trigger, unleashing the enchantment of a database's functionality.
+Once upon a time, in the bustling coding community of wizards and witches, a clever and inquisitive sheep named Data Sheep 🐑 embarked on a magical quest. Data Sheep had a passion for data analytics and an unwavering love for sheep and dogs, especially husky 📊❤️. 
 
 ![image](/assets/images/fang-0.jpeg)
 
-With determination and a sparkle in their eyes, Data Sheep delved deep into the realm of backend development, ready to conquer the intricate code optimization challenges that lay ahead. As they ventured forth, they encountered complex logic and mysterious syntax puzzles 🕵️‍♂️🔍.
+Data Sheep and her friends want to rewrite Python code for SQL triggers, unleashing the enchantment of a database's functionality. With determination and a sparkle in their eyes, Data Sheep delved deep into the realm of backend development, ready to conquer the intricate code optimization challenges that lay ahead. As they ventured forth, they encountered complex logic and mysterious syntax puzzles 🕵️‍♂️🔍.
 
 ![image](/assets/images/fang-1.jpeg)
 
-But fear not! Just when Data Sheep needed it most, a magical presence appeared—GitHub Copilot, a wise and helpful coding assistant with the spirit of Fang 🧙‍♂️🐕. Though not a husky, GitHub Copilot's guidance was invaluable, providing insights and suggestions that propelled Data Sheep towards success.
+But fear not! Just when Data Sheep needed it most, a magical presence appeared—GitHub Copilot, a wise and helpful coding assistant with the spirit of Fang 🧙‍♂️🐕, inspired by the legendary Fang from J.K. Rowling's Harry Potter series, Though not a husky, GitHub Copilot's guidance was invaluable, providing insights and suggestions that propelled Data Sheep towards success.
 
 ![image](/assets/images/fang-2.jpeg)
 
@@ -42,4 +42,4 @@ And thus, the tale of Data Sheep, the lover of dogs and backend development, and
 
 ---
 **TL;DR** 
- In a coding world inspired by the magic of Harry Potter, Data Sheep, a clever and inquisitive sheep, teams up with GitHub Copilot, reminiscent of Fang, to embark on a magical journey into backend development. Together, they conquer complex challenges, rewrite Python code for SQL triggers, and become legends in the coding realm. Their collaboration showcases the power of determination, friendship, and the limitless possibilities that arise when a determined sheep and a magical coding assistant join forces. 🐑🔮🚀
+In a coding world inspired by the magic of Harry Potter, Data Sheep, a clever and inquisitive sheep, teams up with GitHub Copilot, reminiscent of Fang, to embark on a magical journey into backend development. Together, they conquer complex challenges, rewrite Python code for SQL triggers, and become legends in the coding realm. Their collaboration showcases the power of determination, friendship, and the limitless possibilities that arise when a determined sheep and a magical coding assistant join forces. 🐑🔮🚀
