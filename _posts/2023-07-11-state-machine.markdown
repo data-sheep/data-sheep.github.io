@@ -32,6 +32,8 @@ author: Data Sheep
 
 😄 Their lighthearted approach brought laughter and understanding to even the most bewildering aspects of state machines. The forest animals marveled at the Data Squad's dedication and appreciated the value of data-driven decision-making. 🤣🌳📈
 
+![image](/assets/images/sate-0.jpeg)
+
 🌟 In the end, Data Sheep and the Data Squad not only unraveled the mysteries of state machines but also inspired the forest animals to embrace the power of data analytics in their own lives. Data Sheep's journey of exploration taught them the importance of sharing knowledge, collaborating, and making complex topics accessible to all. 🐏🧠💪
 states
 
