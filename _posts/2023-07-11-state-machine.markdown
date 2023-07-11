@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Data Analytics Adventures: Exploring State Machines with Data Sheep and the Forest Data Squad"
+title: "Data Sheep's Data Analytics Adventures: Exploring State Machines with Forest Data Squad"
 author: Data Sheep
 --- 
 
