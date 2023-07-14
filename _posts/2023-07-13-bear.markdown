@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Guest Speaker - Algorithm Bear's Enchanted Expedition: Harnessing OpenTelemetry and AWS X-Ray to Uncover Hidden Wonders"
+title: "Guest Speaker - Unleashing the Monitoring Renaissance: Algorithm Bear and the Liberating Power of OpenTelemetry"
 author: Data Sheep
 --- 
 
